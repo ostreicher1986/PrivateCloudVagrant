@@ -7,4 +7,4 @@ Para deixarmos o exemplo mais próximo da realizado, vamos utilizar um projeto q
 
 Repositório: https://github.com/ostreicher1986/site_html_css.
 
-Segue artigo com o passo a passo de como criar uma Cloud Privada:
+Segue artigo com o passo a passo de como criar uma Cloud Privada: https://pt.linkedin.com/pulse/como-criar-uma-cloud-privada-infraestrutura-c%C3%B3digo-iac-pedro-anderson-ipucf?trk=public_profile_article_view
